@@ -1,0 +1,5 @@
+npm error code ETARGET
+npm error notarget No matching version found for expo-image@~1.11.1.
+npm error notarget In most cases you or one of your dependencies are requesting
+npm error notarget a package version that doesn't exist.
+npm error A complete log of this run can be found in: C:\Users\Elvin\AppData\Local\npm-cache\_logs\2026-02-03T21_59_16_657Z-debug-0.log
